@@ -4,15 +4,13 @@ Phishing, email spoofing, header analysis, social engineering, threat detection
 GitHub – “Phishing Pot” Collection
 A community-maintained archive of real phishing .eml samples collected via honeypots
 
-
 `git clone https://github.com/rf-peixoto/phishing_pot.git`
 
 `cd phishing_pot/email`
 
 `nano sample-12.eml `
 
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/de1efae9da8e29133ccedf6feb5144e39511d7f7/pishmail_example.png)
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/nano.png)
+![image alt](https://github.com/Gauravrajguru132/Task-2/commit/1aaa0d8070904cefb3117a4e90f2821a6246aca4#diff-aa2099f261c1b791467217515e8d4761eb7ca4a732e6e4bb572e56512704f8bf)
 
 ## Use an online analyzer (open browser in Kali):
 
@@ -20,10 +18,10 @@ Go to: https://mxtoolbox.com/SuperTool.aspx
 
 Paste header text and click "Analyze"
 
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/1.jpg)
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/2.jpg)
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/3.jpg)
-![image alt](https://github.com/devalla-jwala/Task-2-Analyze-a-Phishing-Email-Sample-Elevate-Labs-/blob/97fb01f0bc9e610245cbdaaefe23e24de0fa8f38/4.jpg)
+![image alt](https://github.com/Gauravrajguru132/Task-2/commit/1aaa0d8070904cefb3117a4e90f2821a6246aca4#diff-4c468b3b16999fd9578189576d5f770cb4a16ad9fca0e798a251f00a54a87c5d)
+![image alt](https://github.com/Gauravrajguru132/Task-2/commit/1aaa0d8070904cefb3117a4e90f2821a6246aca4#diff-88a5d4f503b26504ed25f8cf38a0b97ddfd234c4f024896a96a3fa363de0660b)
+![image alt](https://github.com/Gauravrajguru132/Task-2/commit/1aaa0d8070904cefb3117a4e90f2821a6246aca4#diff-da877ea96a7e8f7c9bced14ac791f424af4b0b4eab101ef636545c20e9eed116)
+![image alt](https://github.com/Gauravrajguru132/Task-2/commit/1aaa0d8070904cefb3117a4e90f2821a6246aca4#diff-acf116f09554c5c3652b89f246234edb358ce68a27c0f4e4c0279e9429b50825)
 ## Email Overview
 
 - **Subject**: `[Binаnсе] Immediate verification required for rodrigo-f-p@hotmail.com`
